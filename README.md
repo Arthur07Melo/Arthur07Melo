@@ -7,7 +7,7 @@
 
 <div>
   <a href="https://github.com/Arthur07Melo">
-  <img height="180em" src="https://github-readme-stats-tau-azure.vercel.app/api?username=Arthur07Melo&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-master-arthur07melo.vercel.app/api?username=Arthur07Melo&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-tau-azure.vercel.app/api/top-langs/?username=Arthur07Melo&theme=radical&layout=compact" />
 </div>
 
