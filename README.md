@@ -5,11 +5,6 @@
 - 🌐 Portfólio: https://arthurian-portfolio.vercel.app
 - 📫 Email: aarthur00melo@gmail.com
 
-<div>
-  <a href="https://github.com/Arthur07Melo">
-  <img height="180em" src="https://github-readme-stats-tau-azur.vercel.app/api?username=Arthur07Melo&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-tau-azur.vercel.app/api/top-langs/?username=Arthur07Melo&theme=radical&layout=compact" />
-</div>
 
 <div>
     <img align="center" width="30" height="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
