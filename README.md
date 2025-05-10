@@ -15,6 +15,12 @@
     <img align="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </div>
+
+<div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arthur07Melo&show_icons=true&title_color=6ca8e0&text_color=9ca3af&icon_color=4c6ef5&bg_color=0d1117&border_color=1f2937)
+    
+</div>
   
 ##
 
